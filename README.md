@@ -1,4 +1,5 @@
 ### Foxite
+- [Foxite](https://github.com/FreedTapestry21/Foxite) is an open-source web server made by FreedTapstry21.
 - Foxites are compounds that contain the foxite ion, Fx<sub>2</sub>O<sub>3</sub><sup>2-</sup>.
 - "Foxite" was a late 18th-century British political label for Whig followers of Charles James Fox.
 - Foxit Reader is a PDF viewer and editor.
