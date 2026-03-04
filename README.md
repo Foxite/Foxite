@@ -1,3 +1,5 @@
+# Now migrating to https://git.foxite.dev
+
 ### Foxite
 - [Foxite](https://github.com/FreedTapestry21/Foxite) is an open-source web server made by FreedTapestry21.
 - Foxites are compounds that contain the foxite ion, Fx<sub>2</sub>O<sub>3</sub><sup>2-</sup>.
